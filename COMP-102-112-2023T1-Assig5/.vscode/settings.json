@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "WeatherReporter/ecs100.jar"
+    ]
+}

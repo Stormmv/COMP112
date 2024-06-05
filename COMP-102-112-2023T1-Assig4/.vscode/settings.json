@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "RoadProfiler/ecs100.jar"
+    ]
+}
